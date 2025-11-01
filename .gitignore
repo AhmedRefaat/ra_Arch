@@ -1,0 +1,105 @@
+# ==========================================
+# Virtual Environments
+# ==========================================
+venv/
+env/
+ENV/
+virtualenv/
+.venv/
+
+# ==========================================
+# Python Bytecode and Cache
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ==========================================
+# Streamlit Specific
+# ==========================================
+.streamlit/secrets.toml
+.streamlit/config.toml
+*.streamlit
+
+# ==========================================
+# Environment Variables and Secrets
+# ==========================================
+.env
+.env.local
+.env.*.local
+secrets.toml
+config.toml
+
+# ==========================================
+# IDE and Editor Files
+# ==========================================
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# Operating System Files
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# ==========================================
+# Logs and Databases
+# ==========================================
+*.log
+*.sql
+*.sqlite
+*.db
+
+# ==========================================
+# Build and Distribution
+# ==========================================
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ==========================================
+# Testing and Coverage
+# ==========================================
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# ==========================================
+# Temporary and Backup Files
+# ==========================================
+*.tmp
+*.bak
+*.swp
+*~
+.#*
