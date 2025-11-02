@@ -19,9 +19,9 @@ __pycache__/
 # ==========================================
 # Streamlit Specific
 # ==========================================
-.streamlit/secrets.toml
-.streamlit/config.toml
-*.streamlit
+# .streamlit/secrets.toml
+# .streamlit/config.toml
+# *.streamlit
 
 # ==========================================
 # Environment Variables and Secrets
