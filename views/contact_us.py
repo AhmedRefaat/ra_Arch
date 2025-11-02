@@ -3,7 +3,7 @@ import re
 
 def show():
     st.title("📞 Contact Us")
-    st.markdown("### Get in Touch with RA-Architecture")
+    st.markdown("### Get in Touch with El Rawaa3-Architectural")
     st.markdown("---")
     
     # Two-column layout
@@ -54,7 +54,7 @@ def show():
         +20 (0) 1121252163
         
         **Email:**  
-        info@ra-architecture.com
+        info@elrawaa3-arch.com
         
         **Business Hours:**  
         Saturday - Thursday: 9:00 AM - 5:00 PM  
