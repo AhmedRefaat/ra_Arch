@@ -30,7 +30,7 @@ __pycache__/
 .env.local
 .env.*.local
 secrets.toml
-config.toml
+# config.toml
 
 # ==========================================
 # IDE and Editor Files
